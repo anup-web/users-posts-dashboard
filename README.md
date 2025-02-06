@@ -30,7 +30,7 @@ This is a Next.js application that fetches and displays user profiles and their 
 
 ## Setup
 1. Clone the repository:
-   ```bash
+   ```` 
    git clone https://github.com/anup-web/users-posts-dashboard.git
 
 ````
